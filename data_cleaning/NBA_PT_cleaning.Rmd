@@ -1,0 +1,60 @@
+---
+title: "Predicting NBA Playoff Teams - Data Cleaning"
+output: html_notebook
+---
+
+## Data Cleaning
+
+```{r}
+library(dplyr)
+nba <- read.csv("/Users/brian/Desktop/Team Summaries.csv")
+
+# Get rid of all team names defined as league average
+nba <- nba %>% 
+  filter(abbreviation != "League Average")
+nba
+```
+
+
+#### Through some through checks with the target variable (playoffs), it was determined that the proper playoffs teams weren't implemented in 2023 and 2024, so changes are made in the code below.
+
+```{r}
+# Teams that made the playoffs for the 2023 season
+playoff_teams_2023 <- c("Atlanta Hawks", "Boston Celtics", "Brooklyn Nets", 
+                        "Cleveland Cavaliers", "Denver Nuggets", "Golden State Warriors",
+                        "Los Angeles Clippers", "Los Angeles Lakers", 
+                        "Memphis Grizzlies", "Miami Heat", "Milwaukee Bucks", 
+                        "Minnesota Timberwolves", "New York Knicks", 
+                        "Philadelphia 76ers", "Phoenix Suns", "Sacramento Kings")
+
+# Update playoffs column to TRUE for playoff teams in 2023
+nba$playoffs[nba$team %in% playoff_teams_2023 & nba$season == 2023] <- TRUE
+
+# Teams that made the playoffs for the 2024 season
+playoff_teams_2024 <- c("Boston Celtics", "Cleveland Cavaliers", "Dallas Mavericks", 
+                        "Denver Nuggets", "Indiana Pacers", "Los Angeles Lakers", 
+                        "Miami Heat", "Milwaukee Bucks", "Minnesota Timberwolves", 
+                        "New Orleans Pelicans", "New York Knicks", 
+                        "Oklahoma City Thunder", "Orlando Magic", "Phoenix Suns", 
+                        "Los Angeles Clippers")
+
+# Update Playoffs column to TRUE for playoff teams in 2024
+nba$playoffs[nba$team %in% playoff_teams_2024 & nba$season == 2024] <- TRUE
+nba
+```
+
+#### Due to data tracking issues, we'll just use data from 1980, onward for this study. This also allows for us to be consistent with the NBA three point line's introduction, which was in 1980.
+
+```{r}
+# Filter data to 1980 season onward
+nba1980 <- nba %>%
+  filter(season >= 1980)
+
+# Filter out arena and attendance stats
+nba1980 <- nba1980 %>%
+  select(-arena, -attend, -attend_g)
+
+# Check the final dimensions 
+dim(nba1980)
+
+```
