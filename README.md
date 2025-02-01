@@ -14,9 +14,10 @@ University of North Carolina Wilmington, Wilmington, NC
 
 ## Analytics Projects
 
-**Regression Tree Analysis for Cedar Fair Roller Coasters** (November 2024)  
-- Conducted feature engineering in R (tidyverse) to clean and filter 17 features for 95 roller coasters across the Cedar Fair Park chain  
-- Developed a regression tree model to predict roller coaster ratings, partitioning coasters into more homogenous nodes based on features like height, speed, and inversions to reduce prediction errors  
+**Regression Tree Analysis for Roller Coasters Around the World** (November 2024)  
+- Conducted feature engineering in R (tidyverse) to clean and filter 56 features for 1000+ roller coasters
+- Developed a regression tree in Python to analyze how features such as speed, height, and number of inversions influence roller coaster ratings, identifying key contributors to higher and lower ratings
+- Utilized random forest to predict ratings of roller coasters at different parks
 
 **Predicting NBA Win Percentage** (September 2023—December 2023)  
 - Conducted exploratory data analysis in R and Python on historical NBA data (1980-present), focusing on identifying key features impacting team performance  
