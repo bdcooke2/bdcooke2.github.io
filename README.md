@@ -26,9 +26,10 @@ University of North Carolina Wilmington, Wilmington, NC
 ![Dashboard Home Page](NCSU%20Women's%20Tennis%20Dashboard.png)
 
 **From Reviews to Results: Enhancing Hotel Services Through Text Analysis and NLP**	(October 2024)
-
+[View Here](file:///Users/brian/Downloads/Hotel%20Marketing%20Plan%20XL%20by%20Slidesgo.pptx.pdf) 
 - Developed sentiment analysis pipeline using Python to analyze 20,000+ TripAdvisor Hotel Reviews, identifying discrepancies between numerical ratings and sentiment polarity
 - Implemented Named Entity Recognition (NER) using spaCy to extract hotel names and locations from reviews, identifying the top 5 countries with highest frequencies of rating-sentiment mismatches
+
 
 
 **Predicting NBA Win Percentage** (September 2023—December 2023)  
