@@ -24,9 +24,6 @@ University of North Carolina Wilmington, Wilmington, NC
 - Developed an interactive Tableau dashboard for NCSU Women’s Tennis, visualizing player statistics, match outcomes, and performance trends to enhance data-driven analysis  
 - Analyzed performance differences in wins vs. losses, displaying individualized results for each player and presented results to stakeholders
 
-
-- Utilized classification algorithms, including logistic regression and XGBoost, to predict which teams made the playoffs, achieving a test accuracy exceeding 84% for both models  
-
 **Predicting NBA Win Percentage** (September 2023—December 2023)  
 - Conducted exploratory data analysis in R and Python on historical NBA data (1980-present), focusing on identifying key features impacting team performance  
 - Utilized classification algorithms, including logistic regression and XGBoost, to predict which teams made the playoffs, achieving a test accuracy exceeding 84% for both models
