@@ -25,6 +25,11 @@ University of North Carolina Wilmington, Wilmington, NC
 - Analyzed performance differences in wins vs. losses, displaying individualized results for each player and presented results to stakeholders
 ![Dashboard Home Page](NCSU%20Women's%20Tennis%20Dashboard.png)
 
+**From Reviews to Results: Enhancing Hotel Services Through Text Analysis and NLP**	(October 2024)
+
+- Developed sentiment analysis pipeline using Python to analyze 20,000+ TripAdvisor Hotel Reviews, identifying discrepancies between numerical ratings and sentiment polarity
+- Implemented Named Entity Recognition (NER) using spaCy to extract hotel names and locations from reviews, identifying the top 5 countries with highest frequencies of rating-sentiment mismatches
+
 
 **Predicting NBA Win Percentage** (September 2023—December 2023)  
 - Conducted exploratory data analysis in R and Python on historical NBA data (1980-present), focusing on identifying key features impacting team performance  
