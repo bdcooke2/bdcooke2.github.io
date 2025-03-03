@@ -23,6 +23,7 @@ University of North Carolina Wilmington, Wilmington, NC
 [View Here](https://public.tableau.com/app/profile/brian.cooke4418/viz/Blue10NCSUTennisDashboard_17410399695890/TennisDashboard) 
 - Developed an interactive Tableau dashboard for NCSU Women’s Tennis, visualizing player statistics, match outcomes, and performance trends to enhance data-driven analysis  
 - Analyzed performance differences in wins vs. losses, displaying individualized results for each player and presented results to stakeholders
+![Dashboard Home Page](Blue 10 NCSU Women's Tennis Dashboard.png)
 
 
 **Predicting NBA Win Percentage** (September 2023—December 2023)  
