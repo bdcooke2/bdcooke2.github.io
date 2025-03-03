@@ -27,7 +27,7 @@ University of North Carolina Wilmington, Wilmington, NC
 
 **From Reviews to Results: Enhancing Hotel Services Through Text Analysis and NLP**	(October 2024)
 
-[View Here](//Users/brian/Downloads/Hotel%20Marketing%20Plan%20XL%20by%20Slidesgo.pptx.pdf) 
+[View Here]([//Users/brian/Downloads/Hotel%20Marketing%20Plan%20XL%20by%20Slidesgo.pptx.pdf](https://docs.google.com/presentation/d/e/2PACX-1vQalpCtlgb-X_gLHz2H8tJzH2gAW2mYZXTiPYuyEBGMhHVTXV0_lVEJPEUCaJDtTA/pub?start=false&loop=false&delayms=3000)) 
 - Developed sentiment analysis pipeline using Python to analyze 20,000+ TripAdvisor Hotel Reviews, identifying discrepancies between numerical ratings and sentiment polarity
 - Implemented Named Entity Recognition (NER) using spaCy to extract hotel names and locations from reviews, identifying the top 5 countries with highest frequencies of rating-sentiment mismatches
 
