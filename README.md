@@ -20,9 +20,10 @@ University of North Carolina Wilmington, Wilmington, NC
 - Utilized random forest to predict ratings of roller coasters at different parks
 
 **NCSU Women’s Tennis Dashboard** (November 2024)  
-[View Here](https://public.tableau.com/app/profile/brian.cooke4418/viz/Blue10NCSUTennisDashboard_17410399695890/TennisDashboard)  
+[View Here](https://public.tableau.com/app/profile/brian.cooke4418/viz/Blue10NCSUTennisDashboard_17410399695890/TennisDashboard) 
 - Developed an interactive Tableau dashboard for NCSU Women’s Tennis, visualizing player statistics, match outcomes, and performance trends to enhance data-driven analysis  
 - Analyzed performance differences in wins vs. losses, displaying individualized results for each player and presented results to stakeholders
+
 
 **Predicting NBA Win Percentage** (September 2023—December 2023)  
 - Conducted exploratory data analysis in R and Python on historical NBA data (1980-present), focusing on identifying key features impacting team performance  
