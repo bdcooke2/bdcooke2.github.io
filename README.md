@@ -24,7 +24,7 @@ University of North Carolina Wilmington, Wilmington, NC
 - Developed an interactive Tableau dashboard for NCSU Women’s Tennis, visualizing player statistics, match outcomes, and performance trends to enhance data-driven analysis  
 - Analyzed performance differences in wins vs. losses, displaying individualized results for each player and presented results to stakeholders
 
-![Dashboard Home Page](Blue 10 NCSU Women's Tennis Dashboard.png)
+![Dashboard Home Page](Blue%2010%20NCSU%20Women's%20Tennis%20Dashboard.png)
 
 
 **Predicting NBA Win Percentage** (September 2023—December 2023)  
