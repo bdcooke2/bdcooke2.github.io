@@ -1,6 +1,6 @@
-# Data Scientist
+# Data Enthusiast
 
-#### Technical Skills: Python, R, SQL
+#### Technical Skills: Python, R, SQL, SPSS, MATLAB
 
 ## Education: 
 
