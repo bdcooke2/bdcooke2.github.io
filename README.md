@@ -13,6 +13,7 @@ University of North Carolina Wilmington, Wilmington, NC
 ## Analytics Projects
 
 **Regression Tree Analysis for Roller Coasters Around the World** (November 2024)  
+[View Here](https://github.com/bdcooke2/Coaster-Rating_Predictions)  
 - Conducted feature engineering in R (tidyverse) to clean and filter 56 features for 1000+ roller coasters  
 - Developed a regression tree in Python to analyze how features such as speed, height, and number of inversions influence roller coaster ratings, identifying key contributors to higher and lower ratings  
 - Utilized random forest to predict ratings of roller coasters at different parks  
@@ -35,6 +36,8 @@ University of North Carolina Wilmington, Wilmington, NC
 <hr>
 
 **Predicting NBA Win Percentage** (September 2023—December 2023)  
+[View Here](https://github.com/bdcooke2/NBAPredict_WP)  
+
 - Conducted exploratory data analysis in R and Python on historical NBA data (1980-present), focusing on identifying key features impacting team performance  
 - Utilized classification algorithms, including logistic regression and XGBoost, to predict which teams made the playoffs, achieving a test accuracy exceeding 84% for both models
 
