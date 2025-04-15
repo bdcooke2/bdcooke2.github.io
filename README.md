@@ -1,6 +1,6 @@
 # Data Enthusiast
 
-#### Technical Skills: Python, R, SQL, SPSS, MATLAB
+#### Software / Programming: Python, R, SQL, Tableau, SPSS, MATLAB
 
 ## Education: 
 
