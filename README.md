@@ -12,6 +12,14 @@ University of North Carolina Wilmington, Wilmington, NC
 
 ## Analytics Projects
 
+**IAA Practicum Project with Visionist, Inc. (Team Lead) - Predictive Modeling and Recall Prediction** (August 2024-April 2024) 
+- Serve as team lead for a consultancy-based practicum project, collaborating with sponsor liaison, VP, and other members of the Visionist team
+- Established and managed the project's organizational structure using GitLab, ensuring streamlined collaboration, task tracking, and version control
+- Created a Postgres SQL database for deduplication and initial preprocessing of a 1.5M-row used car dataset, followed by a comprehensive data wrangling function in Python to ensure data quality and readiness for analysis
+- Engineer features and develop XGBoost and CatBoost models to estimate car sale prices and time on the market, also integrating survival analysis to reveal key factors driving market time
+- Utilize fraud analytics (Local Outlier Factor) and behavioral screening to perform vehicle recall predictions and provide insights into hidden buyer risk potential
+- Communicate data-driven insights to technical and non-technical stakeholders
+
 **Regression Tree Analysis for Roller Coasters Around the World** (November 2024)  
 [View Here](https://github.com/bdcooke2/Coaster-Rating_Predictions)  
 - Conducted feature engineering in R (tidyverse) to clean and filter 56 features for 1000+ roller coasters  
@@ -22,16 +30,18 @@ University of North Carolina Wilmington, Wilmington, NC
 
 **NCSU Women’s Tennis Dashboard** (November 2024)  
 [View Here](https://public.tableau.com/app/profile/brian.cooke4418/viz/Blue10NCSUTennisDashboard_17410399695890/TennisDashboard)  
-- Developed an interactive Tableau dashboard for NCSU Women’s Tennis, visualizing player statistics, match outcomes, and performance trends to enhance data-driven analysis  
-- Analyzed performance differences in wins vs. losses, displaying individualized results for each player and presented results to stakeholders  
+- Developed an interactive Tableau dashboard for NCSU Women’s Tennis, visualizing player statistics, match outcomes, and performance trends 
+- Analyzed performance differences in wins vs. losses, displaying individualized results for each player, and presented results to stakeholders  
 ![Dashboard Home Page](NCSU%20Women's%20Tennis%20Dashboard.png)
 
 <hr>
 
 **From Reviews to Results: Enhancing Hotel Services Through Text Analysis and NLP** (October 2024)  
 [View Here](https://docs.google.com/presentation/d/e/2PACX-1vQalpCtlgb-X_gLHz2H8tJzH2gAW2mYZXTiPYuyEBGMhHVTXV0_lVEJPEUCaJDtTA/pub?start=false&loop=false&delayms=3000&slide=id.p1)  
-- Developed sentiment analysis pipeline using Python to analyze 20,000+ TripAdvisor Hotel Reviews, identifying discrepancies between numerical ratings and sentiment polarity  
-- Implemented Named Entity Recognition (NER) using spaCy to extract hotel names and locations from reviews, identifying the top 5 countries with highest frequencies of rating-sentiment mismatches  
+- Developed sentiment analysis pipeline using Python to analyze 20,000+ TripAdvisor Hotel Reviews
+- Implemented Named Entity Recognition (NER) using spaCy to extract hotel names and locations from reviews
+- Identified discrepancies between ratings and customer sentiment, and recommended improvements for hotels and travelers
+  
 
 <hr>
 
