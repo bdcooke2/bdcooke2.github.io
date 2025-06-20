@@ -20,6 +20,8 @@ University of North Carolina Wilmington, Wilmington, NC
 - Utilize fraud analytics (Local Outlier Factor) and behavioral screening to perform vehicle recall predictions and provide insights into hidden buyer risk potential
 - Communicate data-driven insights to technical and non-technical stakeholders
 
+<hr>
+
 **Regression Tree Analysis for Roller Coasters Around the World** (November 2024)  
 [View Here](https://github.com/bdcooke2/Coaster-Rating_Predictions)  
 - Conducted feature engineering in R (tidyverse) to clean and filter 56 features for 1000+ roller coasters  
