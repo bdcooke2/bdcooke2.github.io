@@ -23,6 +23,7 @@ University of North Carolina Wilmington, Wilmington, NC
 <hr>
 
 **Insurance Fraud Detection Framework: West Coast Branches Life Insurance** (March 2025) 
+
 [View Here](https://github.com/bdcooke2/Insurance-Fraud-Detection)  
 - Developed an end-to-end fraud detection framework in Python using a simulated life insurance claims dataset
 - Engineered 20+ features into transactional insurance data, including rapid post-change payouts, unusual zip code overlaps, and abnormal claim-to-policy ratios
