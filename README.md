@@ -22,6 +22,18 @@ University of North Carolina Wilmington, Wilmington, NC
 
 <hr>
 
+**Insurance Fraud Detection Framework: West Coast Branches Life Insurance** (March 2025) 
+[View Here](https://github.com/bdcooke2/Insurance-Fraud-Detection)  
+- Developed an end-to-end fraud detection framework in Python using a simulated life insurance claims dataset
+- Engineered 20+ features into transactional insurance data, including rapid post-change payouts, unusual zip code overlaps, and abnormal claim-to-policy ratios
+- Combined transactional screening with K-Nearest Neighbors, Local Outlier Factor, and Isolation Forest to flag anomalous claims, ensembling results to surface cases flagged by over 50% of methods
+- Team identified 51% of true fraud cases—the highest in our class competition
+- Built a supervised XGBoost model to rank-order the top 500 claims by fraud likelihood and financial impact
+- Identified high-risk claims averaging over $620K in potential savings through optimized cost recovery 
+
+<hr>
+
+
 **Regression Tree Analysis for Roller Coasters Around the World** (November 2024)  
 [View Here](https://github.com/bdcooke2/Coaster-Rating_Predictions)  
 - Conducted feature engineering in R (tidyverse) to clean and filter 56 features for 1000+ roller coasters  
