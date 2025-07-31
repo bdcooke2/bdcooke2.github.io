@@ -34,6 +34,12 @@ University of North Carolina Wilmington, Wilmington, NC
 
 <hr>
 
+[View Here](https://github.com/bdcooke2/Insurance-Fraud-Detection)  
+- Preprocessed retail credit scoring data for 4,500 credit applicants in a simulated lending environment, applying ethical constraints for variable inclusion, and binning variables based on information value (IV)
+- Developed a retail credit scorecard using logistic regression in Python, applying hard cutoff for reject inference
+- Performed profitability analysis using trade-off plots, recommending a simulated cutoff score of 503 to maximize profit ($41M) while maintaining a 1.82% default and 72.80% acceptance rate
+
+<hr>
 
 **Regression Tree Analysis for Roller Coasters Around the World** (November 2024)  
 [View Here](https://github.com/bdcooke2/Coaster-Rating_Predictions)  
