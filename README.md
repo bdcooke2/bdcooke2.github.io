@@ -34,6 +34,7 @@ University of North Carolina Wilmington, Wilmington, NC
 
 <hr>
 
+**Retail Credit Scoring: Scorecard Design and Regulatory Compliance** (March 2025) 
 [View Here](https://github.com/bdcooke2/Insurance-Fraud-Detection)  
 - Preprocessed retail credit scoring data for 4,500 credit applicants in a simulated lending environment, applying ethical constraints for variable inclusion, and binning variables based on information value (IV)
 - Developed a retail credit scorecard using logistic regression in Python, applying hard cutoff for reject inference
